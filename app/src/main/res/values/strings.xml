@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My App Portfolio</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_header_text">My Nanodegree Apps!</string>
+    <string name="main_spotify_streamer_button">Spotify Streamer</string>
+    <string name="main_scores_app_button">Scores App</string>
+    <string name="main_library_app_button">Library App</string>
+    <string name="main_build_it_button">Build It Bigger</string>
+    <string name="main_reader_button">XYZ Reader</string>
+    <string name="main_capstone_buton">Capstone: My own App</string>
+
+</resources>
